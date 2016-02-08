@@ -15,8 +15,9 @@ gulp.task('deploy', function() {
 });
 
 gulp.task('styles', () => {
-  return gulp.src('app/styles/*.css')
+  return gulp.src('app/styles/*.scss')
     .pipe($.sourcemaps.init())
+    .pipe($.if('*.scss', $.sass().on('error', $.sass.logError)))
     .pipe($.autoprefixer({browsers: ['last 1 version']}))
     .pipe($.sourcemaps.write())
     .pipe(gulp.dest('.tmp/styles'))
