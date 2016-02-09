@@ -7,9 +7,7 @@ This project feels so low level and free of cruft. Nothing like writing directly
 Offline support using a cache manifest - Although not rocket science the [technique of creating an application manifest](http://www.html5rocks.com/en/tutorials/appcache/beginner/) enables the user to save the application and use it off line. 
 
 [Web SQL](https://en.wikipedia.org/wiki/Web_SQL_Database) - The ability to store local data and access it using SQL is rocket science. Where has this been all my life. Super easy to implement.
-<p>
+
 This project is part of my [portfolio](http://ric.mclaughlin.today/prj_html5_stickys).
-</p>
-<p>
-My version of this project is on [github at prj_html5_stickys](http://ric.mclaughlin.today/prj_html5_stickys).
-</p>
+
+My version of this project is on [github at prj_html5_stickys](https://github.com/ricmclaughlin/prj_html5_stickys).
