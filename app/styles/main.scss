@@ -39,14 +39,14 @@ body {
 
 .closebutton {
   display: none;
-  background-image: url("../images/remove.jpg");
+  background-image: url("../images/remove.png");
   height: 30px;
   width: 30px;
   position: absolute;
   left: -15px;
   top: -15px;
   &:active {
-    background-image: url("../images/remove_pushed.jpg");
+    background-image: url("../images/remove_pushed.png");
   }
 }
 
