@@ -10,4 +10,4 @@ Offline support using a cache manifest - Although not rocket science the [techni
 
 This project is part of my [portfolio](http://ric.mclaughlin.today/prj_html5_stickys).
 
-My version of this project is on [github at prj_html5_stickys](https://github.com/ricmclaughlin/prj_html5_stickys).
+My version of this project, which has a lot of lint errors, is on [github at prj_html5_stickys](https://github.com/ricmclaughlin/prj_html5_stickys).
